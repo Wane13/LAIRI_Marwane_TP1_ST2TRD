@@ -1,0 +1,6 @@
+/Users/marwanelairi/Projects/LAIRI_Marwane_TP1_ST2TRD/LAIRI_Marwane_TP1_ST2TRD/obj/Debug/LAIRI_Marwane_TP1_ST2TRD.csproj.AssemblyReference.cache
+/Users/marwanelairi/Projects/LAIRI_Marwane_TP1_ST2TRD/LAIRI_Marwane_TP1_ST2TRD/obj/Debug/LAIRI_Marwane_TP1_ST2TRD.csproj.CoreCompileInputs.cache
+/Users/marwanelairi/Projects/LAIRI_Marwane_TP1_ST2TRD/LAIRI_Marwane_TP1_ST2TRD/bin/Debug/LAIRI_Marwane_TP1_ST2TRD.exe
+/Users/marwanelairi/Projects/LAIRI_Marwane_TP1_ST2TRD/LAIRI_Marwane_TP1_ST2TRD/bin/Debug/LAIRI_Marwane_TP1_ST2TRD.pdb
+/Users/marwanelairi/Projects/LAIRI_Marwane_TP1_ST2TRD/LAIRI_Marwane_TP1_ST2TRD/obj/Debug/LAIRI_Marwane_TP1_ST2TRD.exe
+/Users/marwanelairi/Projects/LAIRI_Marwane_TP1_ST2TRD/LAIRI_Marwane_TP1_ST2TRD/obj/Debug/LAIRI_Marwane_TP1_ST2TRD.pdb
